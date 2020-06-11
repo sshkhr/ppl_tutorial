@@ -8,8 +8,8 @@ Please follow these links to find the notebooks on Google Colab:
 
 3. [MCMC in Pyro]
 
-4. [Variational Inference in Pyro]
+4. [Variational Inference in Pyro](https://drive.google.com/file/d/1mr2U1EMov7l7GFJVcdFWdNDYf41odROJ/view?usp=sharing)
 
-5. [DL Case Study: Variational Autoencoders]
+5. [DL Case Study: Variational Autoencoders](https://drive.google.com/file/d/1ZqngmNb5bT1TSMjBwH6U1ImE0-aKj7KL/view?usp=sharing)
 
 
